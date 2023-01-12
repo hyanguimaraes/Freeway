@@ -10,7 +10,7 @@ Mais um jogo clássico recriado como projeto para aprendizado de lógica de prog
 Neste jogo você é a Vaquinha e seu objetivo é atravessar a rodovia sem ser atingido por algum veículo. Se você atravessa com sucesso, sua posição é reiniciada e o placar marca um ponto. Se você for atingido por um veículo, sua posição reinicia e você perde um ponto.
 O projeto foi realizado utilizando a plataforma p5.js Web Editor, e os assets foram fornecidos previamente pela Alura. O foco principal foi criar toda a lógica por tras do jogo. Meu código se encontra no arquivo sketch.js
 
-[🔗 Acesse o projeto](https://hyanguimaraes.github.io/freeway)
+[🔗 Acesse o projeto](https://hyanguimaraes.github.io/Freeway/)
 
 [📚 Página do curso "Lógica de programação: laços e listas com Javascript" na plataforma Alura](https://www.alura.com.br/curso-online-javascript-listas-lacos)
 
